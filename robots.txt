@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://polka-dot-cleaners.free.bishop-co-tech.co.uk/sitemap.xml
+Sitemap: https://polkadotcleaners.co.uk/sitemap.xml
