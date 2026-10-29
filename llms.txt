@@ -36,4 +36,7 @@
 ## Pages
 
 - [Home page](https://polkadotcleaners.co.uk/): services, before and after photos, reviews, FAQ and quote form
+- [Our cleaning services](https://polkadotcleaners.co.uk/our-cleaning-services/): every service, before and after photos and finished jobs
+- [Reviews](https://polkadotcleaners.co.uk/reviews/): Facebook recommendations and client messages
+- [Contact](https://polkadotcleaners.co.uk/contact/): phone, WhatsApp, email, Facebook, quote form and FAQ
 - [Facebook reviews](https://www.facebook.com/profile.php?id=100063488411569&sk=reviews)
